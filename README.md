@@ -17,3 +17,5 @@ tokei
 -e test/fixtures
 -o json | jq '100 * .inner.TypeScript.code / (.inner.JavaScript.code + .inner.TypeScript.code)'
 ```
+
+![](https://github.com/lili2311/script-typescript-percent/blob/master/Screen%20Shot%202020-02-16%20at%2018.59.21.png?raw=true)
