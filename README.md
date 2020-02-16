@@ -1,13 +1,13 @@
-# Script to track % of typescript in your repo / project
+# Script to track % of TypeScript in your repo / project
 
 If you are migrating to TypeScript it may be nice to keep track of how you are doing for a particular project, here is an example of using `Tokei` and `jq` to do this.
 
-- Tokei https://github.com/XAMPPRocky/tokei
-- Jq https://github.com/stedolan/jq
+- [Tokei](https://github.com/XAMPPRocky/tokei)
+- [Jq](https://github.com/stedolan/jq)
 
-You can install both via *brew*
+You can install both via [Homebrew](https://brew.sh/)
 - `brew install jq`
--`brew install tokei`
+- `brew install tokei`
 
 Run this in the root of your project.
 
